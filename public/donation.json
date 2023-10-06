@@ -1,0 +1,134 @@
+[
+    {
+        "id": 4,
+        "picture": "https://i.ibb.co/Fw49fVw/c1.jpg",
+        "title": "Warm Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "#d4ecc2",
+        "card_bg": "#ebf6e2",
+        "text_button_bg": "#79c23f",
+        "description": "Support our winter clothing drive to keep people warm during the cold months. Your donation will provide jackets, blankets, scarves, and other essential clothing items. Winter can be harsh for those without adequate protection from the cold.",
+        "price": 40
+    },
+    {
+        "id": 7,
+        "picture": "https://i.ibb.co/yBYLT5D/f2.jpg",
+        "title": "Feeding the Needy",
+        "category": "Food",
+        "category_bg": "#fdd2c4",
+        "card_bg": "#feeae4",
+        "text_button_bg": "#f87147",
+        "description": "Be part of our effort to eliminate hunger in our community. Your donation will provide meals to those in need, including children, seniors, and families facing difficult times. Hunger is a pressing issue that affects millions of lives.",
+        "price": 25
+    },
+    {
+        "id": 2,
+        "picture": "https://i.ibb.co/zXyrMYJ/h3.webp",
+        "title": "Healthcare for All",
+        "category": "Health",
+        "category_bg": "#aec7ff",
+        "card_bg": "#d9e5ff",
+        "text_button_bg": "#0052ff",
+        "description": "Join us in our mission to provide access to healthcare services to those in need. Your contribution will support medical check-ups, life-saving treatments, and preventive healthcare initiatives. Our goal is to ensure that no one has to choose between their health and financial stability.",
+        "price": 75
+    },
+    {
+        "id": 1,
+        "picture": "https://i.ibb.co/Lp2FgB2/e2.webp",
+        "title": "Supporting Education",
+        "category": "Education",
+        "category_bg": "#ffc4c5",
+        "card_bg": "#ffe3e4",
+        "text_button_bg": "#ff444a",
+        "description": "Help us provide quality education to underprivileged children. Your donation will go towards books, school supplies, and educational programs. Our mission is to empower the next generation with knowledge and skills that will open doors to a brighter future.",
+        "price": 50
+    },
+    {
+        "id": 10,
+        "picture": "https://i.ibb.co/m8kL6Lj/h1.jpg",
+        "title": "Healthcare Access",
+        "category": "Health",
+        "category_bg": "#aec7ff",
+        "card_bg": "#d9e5ff",
+        "text_button_bg": "#0052ff",
+        "description": "Ensure equitable access to healthcare services for everyone. Your contribution will make a difference in the lives of many by supporting clinics, medical outreach programs, and affordable healthcare initiatives.",
+        "price": 90
+    },
+    {
+        "id": 8,
+        "picture": "https://i.ibb.co/SxtrDQK/c2.jpg",
+        "title": "Warmth in Winter",
+        "category": "Clothing",
+        "category_bg": "#d4ecc2",
+        "card_bg": "#ebf6e2",
+        "text_button_bg": "#79c23f",
+        "description": "Help us keep people warm during winter by donating warm clothing items such as sweaters, scarves, gloves, and winter coats. The cold season can be especially challenging for those without proper attire.",
+        "price": 35
+    },
+    {
+        "id": 6,
+        "picture": "https://i.ibb.co/MCkcXMM/h2.jpg",
+        "title": "Supporting Healthcare",
+        "category": "Health",
+        "category_bg": "#aec7ff",
+        "card_bg": "#d9e5ff",
+        "text_button_bg": "#0052ff",
+        "description": "Contribute to our healthcare fund to ensure everyone has access to medical care and preventive services. Your donation will help build clinics, provide essential medical equipment, and offer health education programs. Good health is the foundation of a fulfilling life.",
+        "price": 100
+    },
+    {
+        "id": 9,
+        "picture": "https://i.ibb.co/FBR9H13/e3.jpg",
+        "title": "Empower Young Minds",
+        "category": "Education",
+        "category_bg": "#ffc4c5",
+        "card_bg": "#ffe3e4",
+        "text_button_bg": "#ff444a",
+        "description": "Invest in the future by supporting education for young minds. Your donation will fund scholarships, educational workshops, and after-school programs. Education is a key driver of progress.",
+        "price": 70
+    },
+    {
+        "id": 11,
+        "picture": "https://i.ibb.co/KwgWm6M/f3.png",
+        "title": "Nourish the Hungry",
+        "category": "Food",
+        "category_bg": "#fdd2c4",
+        "card_bg": "#feeae4",
+        "text_button_bg": "#f87147",
+        "description": "Support our food bank and help us provide nutritious meals to families and individuals experiencing hunger. Hunger knows no boundaries, and your donation can bring hope and sustenance to those in need.",
+        "price": 40
+    },
+    { 
+        "id": 3,
+        "picture": "https://i.ibb.co/M12Bsd6/f1.jpg",
+        "title": "Food for the Hungry",
+        "category": "Food",
+        "category_bg": "#fdd2c4",
+        "card_bg": "#feeae4",
+        "text_button_bg": "#f87147",
+        "description": "Help us fight hunger in our community. Your donation will provide nutritious meals to families facing food insecurity. Hunger should never be a barrier to a healthy and fulfilling life.",
+        "price": 30
+    },
+    {
+        "id": 5,
+        "picture": "https://i.ibb.co/GpXvs3Q/e1.jpg",
+        "title": "Educate a Child",
+        "category": "Education",
+        "category_bg": "#ffc4c5",
+        "card_bg": "#ffe3e4",
+        "text_button_bg": "#ff444a",
+        "description": "Give a child the gift of education. Your donation will cover tuition fees, school uniforms, educational materials, and extracurricular activities. Education is a powerful tool that can break the cycle of poverty and open doors to a brighter future.",
+        "price": 60
+    },
+    {
+        "id": 12,
+        "picture": "https://i.ibb.co/j8fyBd6/c3.jpg",
+        "title": "Clothing for All Seasons",
+        "category": "Clothing",
+        "category_bg": "#d4ecc2",
+        "card_bg": "#ebf6e2",
+        "text_button_bg": "#79c23f",
+        "description": "Donate clothing that can be used year-round to ensure people have suitable attire for all seasons. Your contribution can make a significant difference in the lives of individuals and families struggling to stay warm.",
+        "price": 55
+    }
+]
